@@ -7,7 +7,7 @@
 
 `react-brick-view` is lightweight, performant, and responsive masonry layout component that arranges elements in a grid-like structure, with elements of varying heights. The elements are placed in such a way that there are minimal gaps between them, creating a cohesive and visually appealing layout.
 
-[**Live Demo**](https://joshnwosu.github.io/react-brick-view/)
+[**Live Demo**](https://joshnwosu.github.io/react-brick-layout/)
 
 ## Installation:
 
