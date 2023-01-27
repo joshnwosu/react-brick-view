@@ -1,6 +1,6 @@
 {
   "name": "react-brick-view",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A react lightweight, performant, and responsive masonry layout component",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
