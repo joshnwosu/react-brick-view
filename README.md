@@ -9,7 +9,7 @@
 
 See [Live Demo](https://joshnwosu.github.io/react-brick-layout/)
 
-## Installation:
+## Installation :
 
 ```bash
 npm install react-brick-view
@@ -46,7 +46,7 @@ const Masonry = () => {
 export default Masonry
 ```
 
-## Props
+## Props :
 
 The `BrickView` component accepts the following props:
 

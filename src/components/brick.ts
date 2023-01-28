@@ -169,8 +169,10 @@ export class Brick implements Props {
       item.style.width = firstChildWidth - gutter + 'px'
       item.style.position = 'absolute'
       item.style.webkitBackfaceVisibility = item.style.backfaceVisibility = 'hidden'
-      item.style.transformStyle = 'preserve-3d'
-      item.style.transform = 'translate3D(' + posX + 'px,' + posY + 'px, 0)'
+      // item.style.transformStyle = 'preserve-3d'
+      // item.style.transform = 'translate3D(' + posX + 'px,' + posY + 'px, 0)'
+      item.style.top = posY + 'px'
+      item.style.left = posX + 'px'
 
       item.dataset.axisX = posX
       item.dataset.axisY = posY
